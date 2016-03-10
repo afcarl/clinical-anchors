@@ -3,13 +3,13 @@ Anchor Specifications
 
 This repository holds the lists of anchors used the paper:
 
-Electronic Medical Record Phenotyping using the Anchor & Learn Framework
+_Electronic Medical Record Phenotyping using the Anchor & Learn Framework_
 
-Halpern, Horng, Choi, Sontag 2015
+by Halpern, Horng, Choi, Sontag 2015
 
 For each condition there is a file that contains a list of anchors in the format:
 
-source|identifier
+`source|identifier`
 
 possible sources are:
 * ICD9 billing codes (icd9)
@@ -27,3 +27,7 @@ To translate the identifiers to human readable names, we suggest that users down
 
 * CMS32\_DESC\_LONG\_DX.txt -- download [here](https://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/Downloads/ICD-9-CM-v32-master-descriptions.zip)
 * RXNCONSO.RRF -- available as part of the RXNORM package. More info [here](https://www.nlm.nih.gov/research/umls/rxnorm/)
+
+The python script display.py uses the above reference files to add human readable names to every anchor. 
+
+Usage: `python display.py condition_file`
