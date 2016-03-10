@@ -1,0 +1,1799 @@
+icd9|001.0
+icd9|001.1
+icd9|001.9
+icd9|002.0
+icd9|002.1
+icd9|002.2
+icd9|002.3
+icd9|002.9
+icd9|003.0
+icd9|003.1
+icd9|003.20
+icd9|003.21
+icd9|003.22
+icd9|003.23
+icd9|003.24
+icd9|003.29
+icd9|003.8
+icd9|003.9
+icd9|004.0
+icd9|004.1
+icd9|004.2
+icd9|004.3
+icd9|004.8
+icd9|004.9
+icd9|005.0
+icd9|005.1
+icd9|005.2
+icd9|005.3
+icd9|005.4
+icd9|005.81
+icd9|005.89
+icd9|005.9
+icd9|006.0
+icd9|006.1
+icd9|006.2
+icd9|006.3
+icd9|006.4
+icd9|006.5
+icd9|006.6
+icd9|006.8
+icd9|006.9
+icd9|007.0
+icd9|007.1
+icd9|007.2
+icd9|007.3
+icd9|007.4
+icd9|007.5
+icd9|007.8
+icd9|007.9
+icd9|008.00
+icd9|008.01
+icd9|008.02
+icd9|008.03
+icd9|008.04
+icd9|008.09
+icd9|008.1
+icd9|008.2
+icd9|008.3
+icd9|008.41
+icd9|008.42
+icd9|008.43
+icd9|008.44
+icd9|008.45
+icd9|008.46
+icd9|008.47
+icd9|008.49
+icd9|008.5
+icd9|008.61
+icd9|008.62
+icd9|008.63
+icd9|008.64
+icd9|008.65
+icd9|008.66
+icd9|008.67
+icd9|008.69
+icd9|008.8
+icd9|009.0
+icd9|009.1
+icd9|009.2
+icd9|009.3
+icd9|010.00
+icd9|010.01
+icd9|010.02
+icd9|010.03
+icd9|010.04
+icd9|010.05
+icd9|010.06
+icd9|010.10
+icd9|010.11
+icd9|010.12
+icd9|010.13
+icd9|010.14
+icd9|010.15
+icd9|010.16
+icd9|010.80
+icd9|010.81
+icd9|010.82
+icd9|010.83
+icd9|010.84
+icd9|010.85
+icd9|010.86
+icd9|010.90
+icd9|010.91
+icd9|010.92
+icd9|010.93
+icd9|010.94
+icd9|010.95
+icd9|010.96
+icd9|011.00
+icd9|011.01
+icd9|011.02
+icd9|011.03
+icd9|011.04
+icd9|011.05
+icd9|011.06
+icd9|011.10
+icd9|011.11
+icd9|011.12
+icd9|011.13
+icd9|011.14
+icd9|011.15
+icd9|011.16
+icd9|011.20
+icd9|011.21
+icd9|011.22
+icd9|011.23
+icd9|011.24
+icd9|011.25
+icd9|011.26
+icd9|011.30
+icd9|011.31
+icd9|011.32
+icd9|011.33
+icd9|011.34
+icd9|011.35
+icd9|011.36
+icd9|011.40
+icd9|011.41
+icd9|011.42
+icd9|011.43
+icd9|011.44
+icd9|011.45
+icd9|011.46
+icd9|011.50
+icd9|011.51
+icd9|011.52
+icd9|011.53
+icd9|011.54
+icd9|011.55
+icd9|011.56
+icd9|011.60
+icd9|011.61
+icd9|011.62
+icd9|011.63
+icd9|011.64
+icd9|011.65
+icd9|011.66
+icd9|011.70
+icd9|011.71
+icd9|011.72
+icd9|011.73
+icd9|011.74
+icd9|011.75
+icd9|011.76
+icd9|011.80
+icd9|011.81
+icd9|011.82
+icd9|011.83
+icd9|011.84
+icd9|011.85
+icd9|011.86
+icd9|011.90
+icd9|011.91
+icd9|011.92
+icd9|011.93
+icd9|011.94
+icd9|011.95
+icd9|011.96
+icd9|012.00
+icd9|012.01
+icd9|012.02
+icd9|012.03
+icd9|012.04
+icd9|012.05
+icd9|012.06
+icd9|012.10
+icd9|012.11
+icd9|012.12
+icd9|012.13
+icd9|012.14
+icd9|012.15
+icd9|012.16
+icd9|012.20
+icd9|012.21
+icd9|012.22
+icd9|012.23
+icd9|012.24
+icd9|012.25
+icd9|012.26
+icd9|012.30
+icd9|012.31
+icd9|012.32
+icd9|012.33
+icd9|012.34
+icd9|012.35
+icd9|012.36
+icd9|012.80
+icd9|012.81
+icd9|012.82
+icd9|012.83
+icd9|012.84
+icd9|012.85
+icd9|012.86
+icd9|013.00
+icd9|013.01
+icd9|013.02
+icd9|013.03
+icd9|013.04
+icd9|013.05
+icd9|013.06
+icd9|013.10
+icd9|013.11
+icd9|013.12
+icd9|013.13
+icd9|013.14
+icd9|013.15
+icd9|013.16
+icd9|013.20
+icd9|013.21
+icd9|013.22
+icd9|013.23
+icd9|013.24
+icd9|013.25
+icd9|013.26
+icd9|013.30
+icd9|013.31
+icd9|013.32
+icd9|013.33
+icd9|013.34
+icd9|013.35
+icd9|013.36
+icd9|013.40
+icd9|013.41
+icd9|013.42
+icd9|013.43
+icd9|013.44
+icd9|013.45
+icd9|013.46
+icd9|013.50
+icd9|013.51
+icd9|013.52
+icd9|013.53
+icd9|013.54
+icd9|013.55
+icd9|013.56
+icd9|013.60
+icd9|013.61
+icd9|013.62
+icd9|013.63
+icd9|013.64
+icd9|013.65
+icd9|013.66
+icd9|013.80
+icd9|013.81
+icd9|013.82
+icd9|013.83
+icd9|013.84
+icd9|013.85
+icd9|013.86
+icd9|013.90
+icd9|013.91
+icd9|013.92
+icd9|013.93
+icd9|013.94
+icd9|013.95
+icd9|013.96
+icd9|014.00
+icd9|014.01
+icd9|014.02
+icd9|014.03
+icd9|014.04
+icd9|014.05
+icd9|014.06
+icd9|014.80
+icd9|014.81
+icd9|014.82
+icd9|014.83
+icd9|014.84
+icd9|014.85
+icd9|014.86
+icd9|015.00
+icd9|015.01
+icd9|015.02
+icd9|015.03
+icd9|015.04
+icd9|015.05
+icd9|015.06
+icd9|015.10
+icd9|015.11
+icd9|015.12
+icd9|015.13
+icd9|015.14
+icd9|015.15
+icd9|015.16
+icd9|015.20
+icd9|015.21
+icd9|015.22
+icd9|015.23
+icd9|015.24
+icd9|015.25
+icd9|015.26
+icd9|015.50
+icd9|015.51
+icd9|015.52
+icd9|015.53
+icd9|015.54
+icd9|015.55
+icd9|015.56
+icd9|015.60
+icd9|015.61
+icd9|015.62
+icd9|015.63
+icd9|015.64
+icd9|015.65
+icd9|015.66
+icd9|015.70
+icd9|015.71
+icd9|015.72
+icd9|015.73
+icd9|015.74
+icd9|015.75
+icd9|015.76
+icd9|015.80
+icd9|015.81
+icd9|015.82
+icd9|015.83
+icd9|015.84
+icd9|015.85
+icd9|015.86
+icd9|015.90
+icd9|015.91
+icd9|015.92
+icd9|015.93
+icd9|015.94
+icd9|015.95
+icd9|015.96
+icd9|016.00
+icd9|016.01
+icd9|016.02
+icd9|016.03
+icd9|016.04
+icd9|016.05
+icd9|016.06
+icd9|016.10
+icd9|016.11
+icd9|016.12
+icd9|016.13
+icd9|016.14
+icd9|016.15
+icd9|016.16
+icd9|016.20
+icd9|016.21
+icd9|016.22
+icd9|016.23
+icd9|016.24
+icd9|016.25
+icd9|016.26
+icd9|016.30
+icd9|016.31
+icd9|016.32
+icd9|016.33
+icd9|016.34
+icd9|016.35
+icd9|016.36
+icd9|016.40
+icd9|016.41
+icd9|016.42
+icd9|016.43
+icd9|016.44
+icd9|016.45
+icd9|016.46
+icd9|016.50
+icd9|016.51
+icd9|016.52
+icd9|016.53
+icd9|016.54
+icd9|016.55
+icd9|016.56
+icd9|016.60
+icd9|016.61
+icd9|016.62
+icd9|016.63
+icd9|016.64
+icd9|016.65
+icd9|016.66
+icd9|016.70
+icd9|016.71
+icd9|016.72
+icd9|016.73
+icd9|016.74
+icd9|016.75
+icd9|016.76
+icd9|016.90
+icd9|016.91
+icd9|016.92
+icd9|016.93
+icd9|016.94
+icd9|016.95
+icd9|016.96
+icd9|017.00
+icd9|017.01
+icd9|017.02
+icd9|017.03
+icd9|017.04
+icd9|017.05
+icd9|017.06
+icd9|017.10
+icd9|017.11
+icd9|017.12
+icd9|017.13
+icd9|017.14
+icd9|017.15
+icd9|017.16
+icd9|017.20
+icd9|017.21
+icd9|017.22
+icd9|017.23
+icd9|017.24
+icd9|017.25
+icd9|017.26
+icd9|017.30
+icd9|017.31
+icd9|017.32
+icd9|017.33
+icd9|017.34
+icd9|017.35
+icd9|017.36
+icd9|017.40
+icd9|017.41
+icd9|017.42
+icd9|017.43
+icd9|017.44
+icd9|017.45
+icd9|017.46
+icd9|017.50
+icd9|017.51
+icd9|017.52
+icd9|017.53
+icd9|017.54
+icd9|017.55
+icd9|017.56
+icd9|017.60
+icd9|017.61
+icd9|017.62
+icd9|017.63
+icd9|017.64
+icd9|017.65
+icd9|017.66
+icd9|017.70
+icd9|017.71
+icd9|017.72
+icd9|017.73
+icd9|017.74
+icd9|017.75
+icd9|017.76
+icd9|017.80
+icd9|017.81
+icd9|017.82
+icd9|017.83
+icd9|017.84
+icd9|017.85
+icd9|017.86
+icd9|017.90
+icd9|017.91
+icd9|017.92
+icd9|017.93
+icd9|017.94
+icd9|017.95
+icd9|017.96
+icd9|018.00
+icd9|018.01
+icd9|018.02
+icd9|018.03
+icd9|018.04
+icd9|018.05
+icd9|018.06
+icd9|018.80
+icd9|018.81
+icd9|018.82
+icd9|018.83
+icd9|018.84
+icd9|018.85
+icd9|018.86
+icd9|018.90
+icd9|018.91
+icd9|018.92
+icd9|018.93
+icd9|018.94
+icd9|018.95
+icd9|018.96
+icd9|020.0
+icd9|020.1
+icd9|020.2
+icd9|020.3
+icd9|020.4
+icd9|020.5
+icd9|020.8
+icd9|020.9
+icd9|021.0
+icd9|021.1
+icd9|021.2
+icd9|021.3
+icd9|021.8
+icd9|021.9
+icd9|022.0
+icd9|022.1
+icd9|022.2
+icd9|022.3
+icd9|022.8
+icd9|022.9
+icd9|023.0
+icd9|023.1
+icd9|023.2
+icd9|023.3
+icd9|023.8
+icd9|023.9
+icd9|024
+icd9|025
+icd9|026.0
+icd9|026.1
+icd9|026.9
+icd9|027.0
+icd9|027.1
+icd9|027.2
+icd9|027.8
+icd9|027.9
+icd9|030.0
+icd9|030.1
+icd9|030.2
+icd9|030.3
+icd9|030.8
+icd9|030.9
+icd9|031.0
+icd9|031.1
+icd9|031.2
+icd9|031.8
+icd9|031.9
+icd9|032.0
+icd9|032.1
+icd9|032.2
+icd9|032.3
+icd9|032.81
+icd9|032.82
+icd9|032.83
+icd9|032.84
+icd9|032.85
+icd9|032.89
+icd9|032.9
+icd9|033.0
+icd9|033.1
+icd9|033.8
+icd9|033.9
+icd9|034.0
+icd9|034.1
+icd9|035
+icd9|036.0
+icd9|036.1
+icd9|036.2
+icd9|036.3
+icd9|036.40
+icd9|036.41
+icd9|036.42
+icd9|036.43
+icd9|036.81
+icd9|036.82
+icd9|036.89
+icd9|036.9
+icd9|037
+icd9|038.0
+icd9|038.10
+icd9|038.11
+icd9|038.12
+icd9|038.19
+icd9|038.2
+icd9|038.3
+icd9|038.40
+icd9|038.41
+icd9|038.42
+icd9|038.43
+icd9|038.44
+icd9|038.49
+icd9|038.8
+icd9|038.9
+icd9|039.0
+icd9|039.1
+icd9|039.2
+icd9|039.3
+icd9|039.4
+icd9|039.8
+icd9|039.9
+icd9|040.0
+icd9|040.1
+icd9|040.2
+icd9|040.3
+icd9|040.41
+icd9|040.42
+icd9|040.81
+icd9|040.82
+icd9|040.89
+icd9|041.00
+icd9|041.01
+icd9|041.02
+icd9|041.03
+icd9|041.04
+icd9|041.05
+icd9|041.09
+icd9|041.10
+icd9|041.11
+icd9|041.12
+icd9|041.19
+icd9|041.2
+icd9|041.3
+icd9|041.41
+icd9|041.42
+icd9|041.43
+icd9|041.49
+icd9|041.5
+icd9|041.6
+icd9|041.7
+icd9|041.81
+icd9|041.82
+icd9|041.83
+icd9|041.84
+icd9|041.85
+icd9|041.86
+icd9|041.89
+icd9|041.9
+icd9|042
+icd9|045.00
+icd9|045.01
+icd9|045.02
+icd9|045.03
+icd9|045.10
+icd9|045.11
+icd9|045.12
+icd9|045.13
+icd9|045.20
+icd9|045.21
+icd9|045.22
+icd9|045.23
+icd9|045.90
+icd9|045.91
+icd9|045.92
+icd9|045.93
+icd9|046.0
+icd9|046.11
+icd9|046.19
+icd9|046.2
+icd9|046.3
+icd9|046.71
+icd9|046.72
+icd9|046.79
+icd9|046.8
+icd9|046.9
+icd9|047.0
+icd9|047.1
+icd9|047.8
+icd9|047.9
+icd9|048
+icd9|049.0
+icd9|049.1
+icd9|049.8
+icd9|049.9
+icd9|050.0
+icd9|050.1
+icd9|050.2
+icd9|050.9
+icd9|051.01
+icd9|051.02
+icd9|051.1
+icd9|051.2
+icd9|051.9
+icd9|052.0
+icd9|052.1
+icd9|052.2
+icd9|052.7
+icd9|052.8
+icd9|052.9
+icd9|053.0
+icd9|053.10
+icd9|053.11
+icd9|053.12
+icd9|053.13
+icd9|053.14
+icd9|053.19
+icd9|053.20
+icd9|053.21
+icd9|053.22
+icd9|053.29
+icd9|053.71
+icd9|053.79
+icd9|053.8
+icd9|053.9
+icd9|054.0
+icd9|054.10
+icd9|054.11
+icd9|054.12
+icd9|054.13
+icd9|054.19
+icd9|054.2
+icd9|054.3
+icd9|054.40
+icd9|054.41
+icd9|054.42
+icd9|054.43
+icd9|054.44
+icd9|054.49
+icd9|054.5
+icd9|054.6
+icd9|054.71
+icd9|054.72
+icd9|054.73
+icd9|054.74
+icd9|054.79
+icd9|054.8
+icd9|054.9
+icd9|055.0
+icd9|055.1
+icd9|055.2
+icd9|055.71
+icd9|055.79
+icd9|055.8
+icd9|055.9
+icd9|056.00
+icd9|056.01
+icd9|056.09
+icd9|056.71
+icd9|056.79
+icd9|056.8
+icd9|056.9
+icd9|057.0
+icd9|057.8
+icd9|057.9
+icd9|058.10
+icd9|058.11
+icd9|058.12
+icd9|058.21
+icd9|058.29
+icd9|058.81
+icd9|058.82
+icd9|058.89
+icd9|059.00
+icd9|059.01
+icd9|059.09
+icd9|059.10
+icd9|059.11
+icd9|059.12
+icd9|059.19
+icd9|059.20
+icd9|059.21
+icd9|059.22
+icd9|059.8
+icd9|059.9
+icd9|060.0
+icd9|060.1
+icd9|060.9
+icd9|061
+icd9|062.0
+icd9|062.1
+icd9|062.2
+icd9|062.3
+icd9|062.4
+icd9|062.5
+icd9|062.8
+icd9|062.9
+icd9|063.0
+icd9|063.1
+icd9|063.2
+icd9|063.8
+icd9|063.9
+icd9|064
+icd9|065.0
+icd9|065.1
+icd9|065.2
+icd9|065.3
+icd9|065.4
+icd9|065.8
+icd9|065.9
+icd9|066.0
+icd9|066.1
+icd9|066.2
+icd9|066.3
+icd9|066.40
+icd9|066.41
+icd9|066.42
+icd9|066.49
+icd9|066.8
+icd9|066.9
+icd9|070.0
+icd9|070.1
+icd9|070.20
+icd9|070.21
+icd9|070.22
+icd9|070.23
+icd9|070.30
+icd9|070.31
+icd9|070.32
+icd9|070.33
+icd9|070.41
+icd9|070.42
+icd9|070.43
+icd9|070.44
+icd9|070.49
+icd9|070.51
+icd9|070.52
+icd9|070.53
+icd9|070.54
+icd9|070.59
+icd9|070.6
+icd9|070.70
+icd9|070.71
+icd9|070.9
+icd9|071
+icd9|072.0
+icd9|072.1
+icd9|072.2
+icd9|072.3
+icd9|072.71
+icd9|072.72
+icd9|072.79
+icd9|072.8
+icd9|072.9
+icd9|073.0
+icd9|073.7
+icd9|073.8
+icd9|073.9
+icd9|074.0
+icd9|074.1
+icd9|074.20
+icd9|074.21
+icd9|074.22
+icd9|074.23
+icd9|074.3
+icd9|074.8
+icd9|075
+icd9|076.0
+icd9|076.1
+icd9|076.9
+icd9|077.0
+icd9|077.1
+icd9|077.2
+icd9|077.3
+icd9|077.4
+icd9|077.8
+icd9|077.98
+icd9|077.99
+icd9|078.0
+icd9|078.10
+icd9|078.11
+icd9|078.12
+icd9|078.19
+icd9|078.2
+icd9|078.3
+icd9|078.4
+icd9|078.5
+icd9|078.6
+icd9|078.7
+icd9|078.81
+icd9|078.82
+icd9|078.88
+icd9|078.89
+icd9|079.0
+icd9|079.1
+icd9|079.2
+icd9|079.3
+icd9|079.4
+icd9|079.50
+icd9|079.51
+icd9|079.52
+icd9|079.53
+icd9|079.59
+icd9|079.6
+icd9|079.81
+icd9|079.82
+icd9|079.83
+icd9|079.88
+icd9|079.89
+icd9|079.98
+icd9|079.99
+icd9|080
+icd9|081.0
+icd9|081.1
+icd9|081.2
+icd9|081.9
+icd9|082.0
+icd9|082.1
+icd9|082.2
+icd9|082.3
+icd9|082.40
+icd9|082.41
+icd9|082.49
+icd9|082.8
+icd9|082.9
+icd9|083.0
+icd9|083.1
+icd9|083.2
+icd9|083.8
+icd9|083.9
+icd9|084.0
+icd9|084.1
+icd9|084.2
+icd9|084.3
+icd9|084.4
+icd9|084.5
+icd9|084.6
+icd9|084.7
+icd9|084.8
+icd9|084.9
+icd9|085.0
+icd9|085.1
+icd9|085.2
+icd9|085.3
+icd9|085.4
+icd9|085.5
+icd9|085.9
+icd9|086.0
+icd9|086.1
+icd9|086.2
+icd9|086.3
+icd9|086.4
+icd9|086.5
+icd9|086.9
+icd9|087.0
+icd9|087.1
+icd9|087.9
+icd9|088.0
+icd9|088.81
+icd9|088.82
+icd9|088.89
+icd9|088.9
+icd9|090.0
+icd9|090.1
+icd9|090.2
+icd9|090.3
+icd9|090.40
+icd9|090.41
+icd9|090.42
+icd9|090.49
+icd9|090.5
+icd9|090.6
+icd9|090.7
+icd9|090.9
+icd9|091.0
+icd9|091.1
+icd9|091.2
+icd9|091.3
+icd9|091.4
+icd9|091.50
+icd9|091.51
+icd9|091.52
+icd9|091.61
+icd9|091.62
+icd9|091.69
+icd9|091.7
+icd9|091.81
+icd9|091.82
+icd9|091.89
+icd9|091.9
+icd9|092.0
+icd9|092.9
+icd9|093.0
+icd9|093.1
+icd9|093.20
+icd9|093.21
+icd9|093.22
+icd9|093.23
+icd9|093.24
+icd9|093.81
+icd9|093.82
+icd9|093.89
+icd9|093.9
+icd9|094.0
+icd9|094.1
+icd9|094.2
+icd9|094.3
+icd9|094.81
+icd9|094.82
+icd9|094.83
+icd9|094.84
+icd9|094.85
+icd9|094.86
+icd9|094.87
+icd9|094.89
+icd9|094.9
+icd9|095.0
+icd9|095.1
+icd9|095.2
+icd9|095.3
+icd9|095.4
+icd9|095.5
+icd9|095.6
+icd9|095.7
+icd9|095.8
+icd9|095.9
+icd9|096
+icd9|097.0
+icd9|097.1
+icd9|097.9
+icd9|098.0
+icd9|098.10
+icd9|098.11
+icd9|098.12
+icd9|098.13
+icd9|098.14
+icd9|098.15
+icd9|098.16
+icd9|098.17
+icd9|098.19
+icd9|098.2
+icd9|098.30
+icd9|098.31
+icd9|098.32
+icd9|098.33
+icd9|098.34
+icd9|098.35
+icd9|098.36
+icd9|098.37
+icd9|098.39
+icd9|098.40
+icd9|098.41
+icd9|098.42
+icd9|098.43
+icd9|098.49
+icd9|098.50
+icd9|098.51
+icd9|098.52
+icd9|098.53
+icd9|098.59
+icd9|098.6
+icd9|098.7
+icd9|098.81
+icd9|098.82
+icd9|098.83
+icd9|098.84
+icd9|098.85
+icd9|098.86
+icd9|098.89
+icd9|099.0
+icd9|099.1
+icd9|099.2
+icd9|099.3
+icd9|099.40
+icd9|099.41
+icd9|099.49
+icd9|099.50
+icd9|099.51
+icd9|099.52
+icd9|099.53
+icd9|099.54
+icd9|099.55
+icd9|099.56
+icd9|099.59
+icd9|099.8
+icd9|099.9
+icd9|100.0
+icd9|100.81
+icd9|100.89
+icd9|100.9
+icd9|101
+icd9|102.0
+icd9|102.1
+icd9|102.2
+icd9|102.3
+icd9|102.4
+icd9|102.5
+icd9|102.6
+icd9|102.7
+icd9|102.8
+icd9|102.9
+icd9|103.0
+icd9|103.1
+icd9|103.2
+icd9|103.3
+icd9|103.9
+icd9|104.0
+icd9|104.8
+icd9|104.9
+icd9|110.0
+icd9|110.1
+icd9|110.2
+icd9|110.3
+icd9|110.4
+icd9|110.5
+icd9|110.6
+icd9|110.8
+icd9|110.9
+icd9|111.0
+icd9|111.1
+icd9|111.2
+icd9|111.3
+icd9|111.8
+icd9|111.9
+icd9|112.0
+icd9|112.1
+icd9|112.2
+icd9|112.3
+icd9|112.4
+icd9|112.5
+icd9|112.81
+icd9|112.82
+icd9|112.83
+icd9|112.84
+icd9|112.85
+icd9|112.89
+icd9|112.9
+icd9|114.0
+icd9|114.1
+icd9|114.2
+icd9|114.3
+icd9|114.4
+icd9|114.5
+icd9|114.9
+icd9|115.00
+icd9|115.01
+icd9|115.02
+icd9|115.03
+icd9|115.04
+icd9|115.05
+icd9|115.09
+icd9|115.10
+icd9|115.11
+icd9|115.12
+icd9|115.13
+icd9|115.14
+icd9|115.15
+icd9|115.19
+icd9|115.90
+icd9|115.91
+icd9|115.92
+icd9|115.93
+icd9|115.94
+icd9|115.95
+icd9|115.99
+icd9|116.0
+icd9|116.1
+icd9|116.2
+icd9|117.0
+icd9|117.1
+icd9|117.2
+icd9|117.3
+icd9|117.4
+icd9|117.5
+icd9|117.6
+icd9|117.7
+icd9|117.8
+icd9|117.9
+icd9|118
+icd9|120.0
+icd9|120.1
+icd9|120.2
+icd9|120.3
+icd9|120.8
+icd9|120.9
+icd9|121.0
+icd9|121.1
+icd9|121.2
+icd9|121.3
+icd9|121.4
+icd9|121.5
+icd9|121.6
+icd9|121.8
+icd9|121.9
+icd9|122.0
+icd9|122.1
+icd9|122.2
+icd9|122.3
+icd9|122.4
+icd9|122.5
+icd9|122.6
+icd9|122.7
+icd9|122.8
+icd9|122.9
+icd9|123.0
+icd9|123.1
+icd9|123.2
+icd9|123.3
+icd9|123.4
+icd9|123.5
+icd9|123.6
+icd9|123.8
+icd9|123.9
+icd9|124
+icd9|125.0
+icd9|125.1
+icd9|125.2
+icd9|125.3
+icd9|125.4
+icd9|125.5
+icd9|125.6
+icd9|125.7
+icd9|125.9
+icd9|126.0
+icd9|126.1
+icd9|126.2
+icd9|126.3
+icd9|126.8
+icd9|126.9
+icd9|127.0
+icd9|127.1
+icd9|127.2
+icd9|127.3
+icd9|127.4
+icd9|127.5
+icd9|127.6
+icd9|127.7
+icd9|127.8
+icd9|127.9
+icd9|128.0
+icd9|128.1
+icd9|128.8
+icd9|128.9
+icd9|129
+icd9|130.0
+icd9|130.1
+icd9|130.2
+icd9|130.3
+icd9|130.4
+icd9|130.5
+icd9|130.7
+icd9|130.8
+icd9|130.9
+icd9|131.00
+icd9|131.01
+icd9|131.02
+icd9|131.03
+icd9|131.09
+icd9|131.8
+icd9|131.9
+icd9|132.0
+icd9|132.1
+icd9|132.2
+icd9|132.3
+icd9|132.9
+icd9|133.0
+icd9|133.8
+icd9|133.9
+icd9|134.0
+icd9|134.1
+icd9|134.2
+icd9|134.8
+icd9|134.9
+icd9|135
+icd9|136.0
+icd9|136.1
+icd9|136.21
+icd9|136.29
+icd9|136.3
+icd9|136.4
+icd9|136.5
+icd9|136.8
+icd9|136.9
+icd9|137.0
+icd9|137.1
+icd9|137.2
+icd9|137.3
+icd9|137.4
+icd9|138
+icd9|139.0
+icd9|139.1
+icd9|139.8
+icd9|460
+icd9|461.0
+icd9|461.1
+icd9|461.2
+icd9|461.3
+icd9|461.8
+icd9|461.9
+icd9|462
+icd9|463
+icd9|464.00
+icd9|464.01
+icd9|464.10
+icd9|464.11
+icd9|464.20
+icd9|464.21
+icd9|464.30
+icd9|464.31
+icd9|464.4
+icd9|464.50
+icd9|464.51
+icd9|465.0
+icd9|465.8
+icd9|465.9
+icd9|466.0
+icd9|466.11
+icd9|466.19
+icd9|480.0
+icd9|480.1
+icd9|480.2
+icd9|480.3
+icd9|480.8
+icd9|480.9
+icd9|481
+icd9|482.0
+icd9|482.1
+icd9|482.2
+icd9|482.30
+icd9|482.31
+icd9|482.32
+icd9|482.39
+icd9|482.40
+icd9|482.41
+icd9|482.42
+icd9|482.49
+icd9|482.81
+icd9|482.82
+icd9|482.83
+icd9|482.84
+icd9|482.89
+icd9|482.9
+icd9|483.0
+icd9|483.1
+icd9|483.8
+icd9|484.1
+icd9|484.3
+icd9|484.5
+icd9|484.6
+icd9|484.7
+icd9|484.8
+icd9|485
+icd9|486
+icd9|487.0
+icd9|487.1
+icd9|487.8
+icd9|488.01
+icd9|488.02
+icd9|488.09
+icd9|488.11
+icd9|488.12
+icd9|488.19
+icd9|488.81
+icd9|488.82
+icd9|488.89
+icd9|540.0
+icd9|540.1
+icd9|540.9
+icd9|541
+icd9|542
+icd9|543.0
+icd9|543.9
+icd9|562.11
+icd9|575.0
+icd9|576.1
+icd9|590.00
+icd9|590.01
+icd9|590.10
+icd9|590.11
+icd9|590.2
+icd9|590.3
+icd9|590.80
+icd9|590.81
+icd9|590.9
+icd9|595.0
+icd9|599.0
+icd9|680.0
+icd9|680.1
+icd9|680.2
+icd9|680.3
+icd9|680.4
+icd9|680.5
+icd9|680.6
+icd9|680.7
+icd9|680.8
+icd9|680.9
+icd9|681.00
+icd9|681.01
+icd9|681.02
+icd9|681.10
+icd9|681.11
+icd9|681.9
+icd9|682.0
+icd9|682.1
+icd9|682.2
+icd9|682.3
+icd9|682.4
+icd9|682.5
+icd9|682.6
+icd9|682.7
+icd9|682.8
+icd9|682.9
+icd9|683
+icd9|684
+icd9|685.0
+icd9|685.1
+icd9|686.00
+icd9|686.01
+icd9|686.09
+icd9|686.1
+icd9|686.8
+icd9|686.9
+icd9|790.7
+icd9|995.91
+icd9|995.92
+med dispensed|009026
+med dispensed|009027
+med dispensed|009032
+med dispensed|009040
+med dispensed|009041
+med dispensed|009042
+med dispensed|009043
+med dispensed|009044
+med dispensed|009045
+med dispensed|009046
+med dispensed|009047
+med dispensed|009048
+med dispensed|009049
+med dispensed|009050
+med dispensed|009051
+med dispensed|009054
+med dispensed|009055
+med dispensed|009056
+med dispensed|009057
+med dispensed|009058
+med dispensed|009059
+med dispensed|009060
+med dispensed|009061
+med dispensed|009062
+med dispensed|009063
+med dispensed|009064
+med dispensed|009065
+med dispensed|009066
+med dispensed|009067
+med dispensed|009068
+med dispensed|009069
+med dispensed|009070
+med dispensed|009079
+med dispensed|009082
+med dispensed|009083
+med dispensed|009084
+med dispensed|009085
+med dispensed|009087
+med dispensed|009089
+med dispensed|009090
+med dispensed|009091
+med dispensed|009092
+med dispensed|009093
+med dispensed|009094
+med dispensed|009095
+med dispensed|009096
+med dispensed|009098
+med dispensed|009099
+med dispensed|009100
+med dispensed|009101
+med dispensed|009104
+med dispensed|009105
+med dispensed|009106
+med dispensed|009107
+med dispensed|009108
+med dispensed|009109
+med dispensed|009110
+med dispensed|009111
+med dispensed|009112
+med dispensed|009113
+med dispensed|009114
+med dispensed|009115
+med dispensed|009116
+med dispensed|009117
+med dispensed|009118
+med dispensed|009119
+med dispensed|009120
+med dispensed|009121
+med dispensed|009122
+med dispensed|009123
+med dispensed|009124
+med dispensed|009125
+med dispensed|009126
+med dispensed|009127
+med dispensed|009128
+med dispensed|009129
+med dispensed|009130
+med dispensed|009131
+med dispensed|009132
+med dispensed|009133
+med dispensed|009135
+med dispensed|009136
+med dispensed|009137
+med dispensed|009138
+med dispensed|009139
+med dispensed|009140
+med dispensed|009141
+med dispensed|009142
+med dispensed|009143
+med dispensed|009144
+med dispensed|009148
+med dispensed|009156
+med dispensed|009157
+med dispensed|009158
+med dispensed|009159
+med dispensed|009160
+med dispensed|009161
+med dispensed|009162
+med dispensed|009163
+med dispensed|009164
+med dispensed|009165
+med dispensed|009166
+med dispensed|009167
+med dispensed|009168
+med dispensed|009169
+med dispensed|009170
+med dispensed|009171
+med dispensed|009172
+med dispensed|009173
+med dispensed|009174
+med dispensed|009175
+med dispensed|009176
+med dispensed|009177
+med dispensed|009178
+med dispensed|009179
+med dispensed|009180
+med dispensed|009181
+med dispensed|009182
+med dispensed|009183
+med dispensed|009232
+med dispensed|009234
+med dispensed|009235
+med dispensed|009236
+med dispensed|009239
+med dispensed|009240
+med dispensed|009241
+med dispensed|009242
+med dispensed|009243
+med dispensed|009244
+med dispensed|009245
+med dispensed|009246
+med dispensed|009247
+med dispensed|009248
+med dispensed|009250
+med dispensed|009251
+med dispensed|009252
+med dispensed|009253
+med dispensed|009254
+med dispensed|009255
+med dispensed|009256
+med dispensed|009257
+med dispensed|009258
+med dispensed|009260
+med dispensed|009262
+med dispensed|009263
+med dispensed|009264
+med dispensed|009265
+med dispensed|009267
+med dispensed|009326
+med dispensed|009327
+med dispensed|009328
+med dispensed|009329
+med dispensed|009330
+med dispensed|009331
+med dispensed|009333
+med dispensed|009334
+med dispensed|009508
+med dispensed|009509
+med dispensed|009510
+med dispensed|009511
+med dispensed|011737
+med dispensed|011738
+med dispensed|011745
+med dispensed|014500
+med dispensed|014973
+med dispensed|015068
+med dispensed|015354
+med dispensed|015519
+med dispensed|015536
+med dispensed|015537
+med dispensed|015538
+med dispensed|015539
+med dispensed|015600
+med dispensed|015601
+med dispensed|015602
+med dispensed|015910
+med dispensed|015911
+med dispensed|015912
+med dispensed|015915
+med dispensed|015916
+med dispensed|015920
+med dispensed|015921
+med dispensed|015922
+med dispensed|015944
+med dispensed|015945
+med dispensed|016368
+med dispensed|016373
+med dispensed|016582
+med dispensed|016583
+med dispensed|016584
+med dispensed|016585
+med dispensed|016630
+med dispensed|016676
+med dispensed|016785
+med dispensed|016786
+med dispensed|016787
+med dispensed|016841
+med dispensed|016842
+med dispensed|016898
+med dispensed|016929
+med dispensed|016930
+med dispensed|016931
+med dispensed|016932
+med dispensed|018526
+med dispensed|018544
+med dispensed|019146
+med dispensed|019334
+med dispensed|019335
+med dispensed|019874
+med dispensed|019904
+med dispensed|019905
+med dispensed|020611
+med dispensed|020957
+med dispensed|020958
+med dispensed|021205
+med dispensed|021206
+med dispensed|021701
+med dispensed|021702
+med dispensed|021735
+med dispensed|021837
+med dispensed|021838
+med dispensed|021870
+med dispensed|022624
+med dispensed|023377
+med dispensed|023378
+med dispensed|023379
+med dispensed|023380
+med dispensed|023388
+med dispensed|023789
+med dispensed|023960
+med dispensed|024093
+med dispensed|024094
+med dispensed|024095
+med dispensed|024194
+med dispensed|024502
+med dispensed|024503
+med dispensed|024559
+med dispensed|026721
+med dispensed|027124
+med dispensed|027252
+med dispensed|027468
+med dispensed|027469
+med dispensed|027470
+med dispensed|028142
+med dispensed|029925
+med dispensed|029926
+med dispensed|029927
+med dispensed|029928
+med dispensed|029929
+med dispensed|030495
+med dispensed|030714
+med dispensed|031452
+med dispensed|032598
+med dispensed|036192
+med dispensed|036193
+med dispensed|036268
+med dispensed|037058
+med dispensed|037059
+med dispensed|037060
+med dispensed|037244
+med dispensed|039377
+med dispensed|039551
+med dispensed|039552
+med dispensed|040257
+med dispensed|040258
+med dispensed|042871
+med dispensed|043292
+med dispensed|043879
+med dispensed|043952
+med dispensed|044141
+med dispensed|044142
+med dispensed|044143
+med dispensed|044428
+med dispensed|045608
+med dispensed|045609
+med dispensed|046770
+med dispensed|046771
+med dispensed|048255
+med dispensed|048256
+med dispensed|048262
+med dispensed|048263
+med dispensed|048264
+med dispensed|048265
+med dispensed|048266
+med dispensed|048564
+med dispensed|048648
+med dispensed|048649
+med dispensed|048650
+med dispensed|048651
+med dispensed|048978
+med dispensed|049742
+med dispensed|050383
+med dispensed|051615
+med dispensed|051880
+med dispensed|053100
+med dispensed|053126
+med dispensed|053127
+med dispensed|053697
+med dispensed|053698
+med dispensed|053835
+med dispensed|053921
+med dispensed|053922
+med dispensed|053923
+med dispensed|053924
+med dispensed|053926
+med dispensed|053927
+med dispensed|057824
+med dispensed|057825
+med dispensed|058005
+med dispensed|058310
+med dispensed|058536
+med dispensed|058537
+med dispensed|059169
+med dispensed|059277
+med dispensed|059415
+med dispensed|059416
+med dispensed|059424
+med dispensed|059425
+med dispensed|059736
+med dispensed|059737
+med dispensed|059738
+med dispensed|059741
+med dispensed|059742
+med dispensed|059747
+med dispensed|059748
+med dispensed|059750
+med dispensed|059753
+med dispensed|059848
+med dispensed|059867
+med dispensed|059868
+med dispensed|059869
+med dispensed|059870
+med dispensed|059871
+med dispensed|059872
+med dispensed|059873
+med dispensed|059874
+med dispensed|059875
+med dispensed|059880
+med dispensed|059881
+med dispensed|059885
+med dispensed|059886
+med dispensed|060015
+med dispensed|060016
+med dispensed|060783
+med dispensed|060906
+med dispensed|060907
+med dispensed|062282
+med dispensed|062320
+med dispensed|062846
+med dispensed|063360
+med dispensed|063361
+med dispensed|063518
+med dispensed|064399
+med dispensed|064400
+med dispensed|064510
+med dispensed|064516
+med dispensed|064850
+med dispensed|064851
+med dispensed|065286
+med dispensed|065733
+med dispensed|065734
+med dispensed|066008
+med dispensed|066025
+med dispensed|066026
+med dispensed|066027
+med dispensed|066030
+med dispensed|066290
+med dispensed|066412
+med dispensed|066413
+med dispensed|066421
+med dispensed|066422
+med dispensed|066423
+med dispensed|066424
+med dispensed|066582
+med dispensed|066810
+med dispensed|066811
+med dispensed|066990
+med dispensed|067111
+med dispensed|067149
+med dispensed|067471
+med dispensed|067533
+med dispensed|067611
+med dispensed|067612
+med dispensed|067984
+med dispensed|068632
+med dispensed|068718
+med dispensed|068719
+med dispensed|069334
+med dispensed|069439
+med dispensed|069934
+med dispensed|070122
+med dispensed|070123
+med dispensed|070665
+med dispensed|070727
+med dispensed|071688
+med dispensed|071690
