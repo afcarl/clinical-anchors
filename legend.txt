@@ -1,0 +1,42 @@
+abdominalpain_acute -- acute abdominal pain
+alcohol_acute -- alcohol intoxiation
+allergicreaction_acute -- allergic reaction
+anklefracture_acute -- ankle fracture
+anticoagulated_history -- anticoagulated
+asthma-copd_acute -- acute asthma or copd exacerbation
+backpain_acute -- acute back pain
+bicycleaccident_acute -- bicycle accident
+cancer_history -- history of cancer, recent enough to change clinical thinking
+cardiac_acute -- cardiac etiology suspected
+cellulitis_acute -- acute case of cellulitis
+chestpain_acute -- chest pain
+chf_acute -- congestive heart failure
+cholecystitis_acute -- acute cholecyctitis
+cva_acute -- cerebrovascular accident
+diabetes_history -- medical history of diabetes (type I or II)
+dvt_acute -- deep vein thrombosis
+employeeexposure_acute -- employee exposure
+epistaxis_acute -- epistaxis
+gastroenteritis_acute -- gastroenteritis
+gibleed_acute -- gastrointestinal bleed
+headache_acute -- headache
+hematuria_acute -- hematuria
+hiv_history -- HIV+
+ich_acute -- intracerebral hemorrhage
+immunosuppressed_history -- is the patient immunosuppressed?
+infection_acute -- any type of infection
+kidneystone_acute -- kidney stone
+laceration_acute -- laceration
+liver_history -- does the patient have livery injury?
+mvc_acute -- motor vehicle accident
+nursinghome_history -- is the patient from a nursing home?
+pancreatitis_acute -- pancreatitis
+pneumonia_acute -- pnuemonia
+psych_acute -- psychiatric illness
+sbo_acute -- small bowel obstruction
+septicshock_acute -- septic shock
+severesepsis_acute -- severe sepsis
+sexualassault_acute -- sexual assault
+si_acute -- suicidal ideation
+syncope_acute -- syncope
+uti_acute -- urinary tract infection
